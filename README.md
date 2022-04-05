@@ -1,1 +1,1 @@
-# Tensorflow_MTS-CNN
+# MTS-CNN: Multi-task semantic segmentation-convolutional neural network for detecting crops and weeds
